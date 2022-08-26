@@ -1,11 +1,11 @@
 # Eyeblink-Conditioning
 System Requirements
 1. Computer
-We recommend a system that meets or exceeds the following specifications: 
-Precision 3630 Tower 
-Processor: Intel (R) Xeon (R) CPU E3-1240 v6 @ 3.70GHz
-RAM: 16.00 GB
-Operation system: Windows 10 Pro
+*We recommend a system that meets or exceeds the following specifications: 
+*Precision 3630 Tower 
+*Processor: Intel (R) Xeon (R) CPU E3-1240 v6 @ 3.70GHz
+*RAM: 16.00 GB
+*Operation system: Windows 10 Pro
   
 2. Software
 * MATLAB, 2018a and 2021a (both have been tested)
