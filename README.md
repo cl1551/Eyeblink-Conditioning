@@ -13,6 +13,7 @@ System Requirements
 3. Required hardware 
 * High-speed (250 frames/s) monochrome camera equipped with a 25-mm lens (Mako G-040, Allied Vision)
 * Network board: Adlink PCle-GIE74
+* Arduino UNO
 
 4. Installation guide (1 h)
 * Install Adlink network board on the computer
@@ -20,3 +21,6 @@ System Requirements
 * Connect the camera to a power injector and then to the network board via an ethernet cable
 * Open MATLAB program and install image acquisition toolbox
 * Find the camera and then adjust acquisition parameters, including frame speed and exposure time.
+
+5. Demo and instructions
+* Example videos are saved in the Video folder and the user instructions are saved in corresponding manuscript folders.
