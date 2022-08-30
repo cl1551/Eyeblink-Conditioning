@@ -23,4 +23,6 @@ System Requirements
 * Find the camera and then adjust acquisition parameters, including frame speed and exposure time.
 
 5. Demo and instructions
-* Example videos are saved in the Video folder and the user instructions are saved in corresponding manuscript folders.
+* Example videos can be downloaded from this link:(https://drive.google.com/file/d/16wSwf3PpVcXL3rVQd47CQq8IVYQY9Wt2/view?usp=sharing)
+* After downloading the videos, copy the folder into the "Video" folder in the "Eyeblink-Conditioning-GITHUB" folder.
+* The user instructions are saved in corresponding manuscript folders.
