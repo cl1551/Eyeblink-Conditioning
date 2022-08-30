@@ -1,0 +1,29 @@
+Use "Delay" for delay conditioning and "Trace" for trace conditioning.
+
+Instructions for two manuscripts are the same.
+
+For MATLAB R2021a users:
+
+1. Click "APPS" tab on top and click "Image Acquisition".
+
+2. Find your camera on Hardware Brower on the left side of the window. Click "MONO 8 (default)". If you cannot find your camera, refresh the list and check if you have installed the supporting package for your camera.
+
+3. Click "Start Preview", adjust your camera configurations, and save the configurations. Next time you can open the configurations by clicking "File"-"Open configuration".
+
+4. Close "Image Acquisition Tool".
+
+5. Create folders to save your videos. The format should be the same as the example video folder. Which is: Video-->Mouse name-->Date of the experiment(For us is A1-A12 for acquisition, E1-E3 for extinction, RA1-RA4 for reacquisition, and R1-R2 for retension.).
+
+6. Make sure the "Current Folder" on the left of the MATLAB window shows the folder you want your videos to be saved.
+
+7. Run the manuscript.
+
+8. Click "Start Preview", check the eye position.
+
+9. Close the preview, adjust ROI using h_Main.h_Video.ROIPosition on line 23.
+
+10. Run the manuscript again. Click "Start Preview". If the eye position looks ok, type "Exp" in the window and click "Stim. Protocol".
+
+11. You will see a window pops out saying "Protocol finished" when it is done.
+
+12. Move on to "Image Processing" folder to process the videos.

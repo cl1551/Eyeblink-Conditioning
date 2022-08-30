@@ -1,0 +1,7 @@
+*Our full experiment includes 12 days of acquisition, 3 days of extinction, 4 days of reacquisition, and 2 days of retention. Example videos of acquisition(A1, A4, A7, A10, A12), extinction(E1, E3), and reacquisition(RA1, RA4) are selected.  
+
+*Use manuscripts in "Image acquisition" folder to collect videos. Videos need to be saved in the "Video" folder.
+
+*Then use manuscripts in "Image processing" folder to collect videos. Data generated from this step will be stored in the "Data" folder.
+
+*The data can then be analysed using manuscripts in "Image analysis" folder.

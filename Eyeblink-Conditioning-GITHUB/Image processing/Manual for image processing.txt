@@ -1,0 +1,37 @@
+The example videos have been processed and the data are stored in the "Data" folder.
+
+
+
+For batch processing videos you have collected, use "funBatchvideo_Adopted".
+
+1. Change the projDirectory(line 5) of "funBatchvideo_Adopted" to where the videos are located.
+
+2. Change the projDirectory(line 2) of "funPlotProcess_Adopted" to the same address as step 1.
+
+2. Run the manuscript.
+
+3. You should see the data flies formated as V_yourvideoname showing in the "Data" folder when finished.
+
+
+
+The videos for extinction experiments should be processed by a different manuscript called "funPlotProcessFlashOnly_Adopted".
+
+1. Change the projDirectory(line 5) of "funPlotProcessFlashOnly_Adopted" to where the videos are located.
+
+2. Change the BaseDirectory(line 19) to a videos you want to use as a baseline. For us it is "A12".
+
+3. Run the manuscript.
+
+4. You should see the data flies formated as V_yourvideoname showing in the "Data" folder when finished.
+
+
+
+To generate a figure about the eyeclosure fration of a certaion day, use "funPlotProcess".
+
+1. Change the projDirectory(line 5) of "funBatchvideo_Adopted" to where the videos are located.
+
+2. Change the videoDirectory(line7) to the file address contain videos your choice. 
+
+3. Run the manuscript.
+
+4. The figure should pops up.

@@ -1,0 +1,30 @@
+The example videos have been analysed and the analysis data are save in "Data" file as "A_videonames".
+
+To get the learning percentage and the CR amplitude:
+
+1. Open "funLearningAbility_v03_Adopted".
+
+2. Change the projDirectory(line 5) to where the Eyeblink-Conditioning-GITHUB folder has been saved.
+
+3. Change the videoDirectory(line 6) to the directory of your video.
+
+4. Run the manuscript.
+
+5. Two Figure will pop up. One shows the learning percentage and the other shows the CR amplitude.
+
+6. The CR amplitude are saved in "A_yourvideo" file in the "Data" folder. Open it in the MATLAB Workforce to see the number.  
+
+*The CR amplitude are calculated using data without US. However, most example videos were taken in experiments with US. So the CR amplitude for the example videos are not accurate.
+
+
+To get the waterfall figure:
+
+1. Open "WaterfallProcess03_Adopted".
+
+2. Select videos and put in a folder. For DEMO, put all the example videos into one folder.
+
+3. Change the projDirectory(line 10) to where the Eyeblink-Conditioning-GITHUB folder has been saved.
+
+4. Change the videoDirectory(line 12) to where your videos have been saved.
+
+5. Run the manuscript.
