@@ -1,6 +1,8 @@
 The example videos have been processed and the data are stored in the "Data" folder.
 
 
+***The folder directory need to be the same as the example otherwith the manuscrips will not run properly***
+
 
 For batch processing videos you have collected, use "funBatchvideo_Adopted".
 
