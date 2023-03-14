@@ -2,6 +2,6 @@
 
 *Use manuscripts in "Image acquisition" folder to collect videos. Videos need to be saved in the "Video" folder.
 
-*Then use manuscripts in "Image processing" folder to collect videos. Data generated from this step will be stored in the "Data" folder.
+*Then use manuscripts in "Image processing" folder to process videos. Data generated from this step will be stored in the "Data" folder.
 
 *The data can then be analysed using manuscripts in "Image analysis" folder.
